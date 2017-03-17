@@ -1,0 +1,14 @@
+{
+  "name": "<%= name %>",
+  "version": "0.0.0",
+  "description": "<%= description %>",
+  "repository": {
+    "url": "<%= username %>/<%= name %>",
+    "type": "git"
+  },
+  "scripts": {
+    "test": "echo no test!"
+  },
+  "author": "<%= username %> <<%= email %>>",
+  "license": "MIT"
+}
